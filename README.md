@@ -14,8 +14,8 @@
 
 作業詳情
 https://github.com/Hfkem/_co/tree/master/01
-[第一章習題](https://github.com/Hfkem/_co/tree/master/01) 
-[第二章習題](https://github.com/Hfkem/_co/tree/master/02))
-[第三章習題](https://github.com/Hfkem/_co/tree/master/03) 
-第四章習題 -- 從缺
+[第一章習題](https://github.com/Hfkem/_co/tree/master/01)   
+[第二章習題](https://github.com/Hfkem/_co/tree/master/02))  
+[第三章習題](https://github.com/Hfkem/_co/tree/master/03)  
+第四章習題 -- 從缺  
 [第五章習題](https://github.com/Hfkem/_co/tree/master/05) --僅完成CPU部分
